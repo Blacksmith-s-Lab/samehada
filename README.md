@@ -1,1 +1,9 @@
 # samehada
+
+Considerada a mais terrível e poderosa das armas utilizadas pelos Espadachins da Névoa pois suga o chakra do oponente durante as batalhas.
+
+TODO ...
+
+A responsabilidade da samehada é liberar memória dos processos do Windows ...
+
+TODO ...
