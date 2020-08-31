@@ -34,4 +34,5 @@ src/*.~*
 *.~*
 *.a
 *.stat
+*.exe
 unittest/configuration.ini
