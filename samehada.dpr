@@ -106,16 +106,16 @@ begin
       begin
         Writeln('');
         Writeln('Para identificar a aplicação por PID:');
-        Writeln('   pcleaner.exe <PID>');
+        Writeln('   samehada.exe <PID>');
         Writeln('');
         Writeln('Para identificar a aplicação por Nome:');
-        Writeln('   pcleaner.exe --name <Nome da Aplicação>');
+        Writeln('   samehada.exe --name <Nome da Aplicação>');
         Writeln('');
         Writeln('Para aplicar em todos os processos:');
-        Writeln('   pcleaner.exe --all');
+        Writeln('   samehada.exe --all');
         Writeln('');
         Writeln('Para esconder a janela:');
-        Writeln('   pcleaner.exe <Comando> --hide');
+        Writeln('   samehada.exe <Comando> --hide');
         Writeln('');
         Writeln('');
         Writeln('Variações de comando:');
