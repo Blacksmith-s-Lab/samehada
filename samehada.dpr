@@ -1,4 +1,4 @@
-program pcleaner;
+program samehada;
 
 {$APPTYPE CONSOLE}
 
